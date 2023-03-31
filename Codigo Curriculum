@@ -1,0 +1,83 @@
+\documentclass{resume}
+\begin{document}
+\fontfamily{ppl}\selectfont
+\noindent
+\begin{tabularx}{\linewidth}{@{}m{0.75\textwidth} m{0\textwidth}@{}}
+{
+    \large {Emiliano Castelán Pérez} \newline
+    \small{
+ 
+    \href{}{Prolongación Tamaulipas, Col. Ricardo Flores Magon},\newline {Cuernavaca, Mor.} \textbf{·} \newline
+
+        \clink{
+            \href{mailto:your-email-id@email.com}{emilianocaste1287@gmail.com} \textbf{·}
+            \href{tel:link to your mobile number (whatsapp/telegram/tel link)}{777-451-02-07}
+            \textbf{·}
+             \href{https://github.com/username/}{EmilianoCastelan}\newline
+        } \newline
+    }
+}
+& 
+{
+    \includegraphics[width=2cm]{   Fotoperfil..jpeg}
+}
+\end{tabularx}
+\csection{Datos personales}{\small
+    \begin{itemize}
+        \item \textbf{Fecha de nacimiento:} \newline
+        {\footnotesize 16 de enero del 2002}{}{}
+        
+    \end{itemize}
+}
+\csection{Formación educativa}{\small
+    \begin{itemize}
+        % item 1 %
+        \item \textbf{Estudiante en la carrera de Licenciatura en ingeniería matemática / Especialidad: Finanzas\hspace{29em}}\newline{-Bachillerato: Escuela de tecnicos Laboratoristas / Especialidad: Electronica Digital} \newline {-Universidad: Instituto Politecnico Nacional}
+        
+    \end{itemize}
+}
+ 
+\csection{Habilidades}{\small
+    \begin{itemize}
+        \item \textbf{Idiomas:} \newline
+        {\footnotesize Ingles nivel avanzado}{}{}
+         \item \textbf{Modelado Matemático:} \newline
+        {\footnotesize Planteamiento y construccion de modelos matemáticos}{}{}
+         \item \textbf{Programación:} \newline
+        {\footnotesize Manejo de C++ y Python}{}{}
+         \item \textbf{Electronica digital:} \newline
+        {\footnotesize Conocimiento y manejo de componentes electrónicos}{}{}
+    \end{itemize}
+}
+
+\csection{Proyectos}{\small
+    \begin{itemize}
+        \item \textbf{Estudio:} \newline
+        {\footnotesize Actualmente me encuentro cursando el tercer semestre de la carrera}{}{}
+ 
+    \end{itemize}
+}
+    
+    
+\csection{Experiencia}{\small
+    \begin{itemize}
+        \item \textbf{Comex \hspace{18em} Septiembre 2020 – Mayo 2021 (9 meses)}\newline{Becario en el departamento de RH }{}{}{}
+
+    \end{itemize}
+}
+    
+\csection{Certificaciones}{\small
+    \begin{itemize}
+        \item \textbf{Certificaciones en idiomas:} 
+        {\footnotesize KET y PET}{}{}
+    \end{itemize}
+
+}       
+
+\csection{Declaration}{\small
+    \begin{itemize}
+        \item \footnotesize I hereby declare that the above mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above mentioned.
+    \end{itemize}
+}
+
+\end{document}
